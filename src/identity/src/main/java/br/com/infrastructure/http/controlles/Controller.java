@@ -1,4 +1,4 @@
-package br.com;
+package br.com.infrastructure.http.controlles;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
