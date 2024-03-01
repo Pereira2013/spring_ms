@@ -1,4 +1,4 @@
-package br.com.infrastructure.http.config;
+package br.com.infrastructure;
 
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType;
 import io.swagger.v3.oas.annotations.security.SecurityScheme;
